@@ -1,0 +1,15 @@
+/home/mikhail/TA/lab2/tmp/CMakeFiles/main.dir
+/home/mikhail/TA/lab2/tmp/CMakeFiles/edit_cache.dir
+/home/mikhail/TA/lab2/tmp/CMakeFiles/rebuild_cache.dir
+/home/mikhail/TA/lab2/tmp/Tree/CMakeFiles/Tree.dir
+/home/mikhail/TA/lab2/tmp/Tree/CMakeFiles/edit_cache.dir
+/home/mikhail/TA/lab2/tmp/Tree/CMakeFiles/rebuild_cache.dir
+/home/mikhail/TA/lab2/tmp/NFA/CMakeFiles/NFA.dir
+/home/mikhail/TA/lab2/tmp/NFA/CMakeFiles/edit_cache.dir
+/home/mikhail/TA/lab2/tmp/NFA/CMakeFiles/rebuild_cache.dir
+/home/mikhail/TA/lab2/tmp/DFA/CMakeFiles/DFA.dir
+/home/mikhail/TA/lab2/tmp/DFA/CMakeFiles/edit_cache.dir
+/home/mikhail/TA/lab2/tmp/DFA/CMakeFiles/rebuild_cache.dir
+/home/mikhail/TA/lab2/tmp/MYREGEX/CMakeFiles/MYREGEX.dir
+/home/mikhail/TA/lab2/tmp/MYREGEX/CMakeFiles/edit_cache.dir
+/home/mikhail/TA/lab2/tmp/MYREGEX/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMYREGEX.a CMakeFiles/MYREGEX.dir/MYREGEX.cpp.o
+/usr/bin/ranlib libMYREGEX.a
